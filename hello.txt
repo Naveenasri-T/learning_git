@@ -1,3 +1,5 @@
 hii this is naveena sri 
 python 
 developer
+tech
+goml
